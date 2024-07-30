@@ -1,4 +1,4 @@
-# Prova Gestão e Qualidade de Software - 2° Ubudade
+# Prova Gestão e Qualidade de Software - 2° Unidade
 Para executar os testes é necessário possuir o node instalado
 
 Inicialmente é necessário instalar os pacotes jest, supertest e o express.
